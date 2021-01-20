@@ -1,12 +1,9 @@
-# active_learning
-
 # Active learning
 
 * 개념 
   * Active Learning: Efficient Data Labeling https://jiryang.github.io/2020/05/31/data-labeling/
 * survey
-  * 
-
+ 
 
 
 * 상용 솔루션
@@ -47,12 +44,9 @@
 
 * 오픈소스 라이센스 정리 
   * http://blog.naver.com/PostView.nhn?blogId=occidere&logNo=220850682345
-
 * h2o-3 라이센스
   * https://github.com/h2oai/h2o-3/blob/master/LICENSE
 * alteryx(알터릭스)
   * https://www.alteryx.com/
 * 2020 gartner magic quadrant for data science and machine learning platforms 
   * https://b2bsalescafe.files.wordpress.com/2020/04/gartner-magic-quadrant-for-data-science-and-machine-learning-platforms-feb-2020.pdf
-
-![image-20210120165642386](C:\Users\sangmuk\AppData\Roaming\Typora\typora-user-images\image-20210120165642386.png)
