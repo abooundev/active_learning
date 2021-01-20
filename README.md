@@ -50,3 +50,4 @@
   * https://www.alteryx.com/
 * 2020 gartner magic quadrant for data science and machine learning platforms 
   * https://b2bsalescafe.files.wordpress.com/2020/04/gartner-magic-quadrant-for-data-science-and-machine-learning-platforms-feb-2020.pdf
+  ![image-20210120165642386](https://user-images.githubusercontent.com/65707664/105158005-da206700-5b50-11eb-9bd3-98c9eb3b6a32.png)
